@@ -1,6 +1,9 @@
 # AMFF
 AMFF
 # Feature Fusion and Metric Learning Network for Zero-Shot Sketch-Based Image Retrieval
+
+Website: https://www.mdpi.com/1099-4300/25/3/502  
+PDF Version: https://www.mdpi.com/1099-4300/25/3/502/pdf
 ![entropy-25-00502-g001](https://user-images.githubusercontent.com/93024130/232699853-715b279d-51d2-47f7-a576-fa7a51914085.png)
 
 
