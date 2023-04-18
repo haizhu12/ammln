@@ -20,3 +20,17 @@ AMFF
 7.pip install pretrainedmodels nltk
 
 ![开场图](https://user-images.githubusercontent.com/93024130/232704514-9df9aa0d-b9f4-4401-972d-dab5a0deed06.png)
+
+# Data set directory structure
+-data/
+  -sketchy/
+    -train/
+      -photo/
+        -image1
+      -sketch/
+        -image1
+    -val/
+      -photo/
+        -image1
+      -sketchy/
+        -image1
