@@ -59,3 +59,18 @@ AMFF
 
 # dataset
 [sketchy and tu-berlin](https://drive.google.com/drive/folders/1lce41k7cGNUOwzt-eswCeahDLWG6Cdk0?usp=sharing)
+
+# cite
+
+`If our code helps you, please cite`
+
+@article{zhao2023feature,
+  title={Feature Fusion and Metric Learning Network for Zero-Shot Sketch-Based Image Retrieval},
+  author={Zhao, Honggang and Liu, Mingyue and Li, Mingyong},
+  journal={Entropy},
+  volume={25},
+  number={3},
+  pages={502},
+  year={2023},
+  publisher={MDPI}
+}
